@@ -19,4 +19,4 @@ function LarryComp (props) {
     )
 }
 
-export default LarryComp;
+export default LarryComp; 
