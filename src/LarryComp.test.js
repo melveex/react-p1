@@ -27,4 +27,4 @@ function click(txt) {
     fireEvent.click(
         screen.getByText(txt)
     );
-} 
+}  
